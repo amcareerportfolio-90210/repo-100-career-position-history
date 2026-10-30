@@ -11,7 +11,7 @@
 - **Collaborated with India's royal families**; non-profit concept presented to Bill Gates.
 - **Member of the ANSI/ISO SQL Language Design Committee**.
 - **Member of World Record Performance Team** at Microsoft in the SQL Server Group.
-- **Presenting author at VLDB and ICDE**, leading global computer science research conferences.
+- **Presenting author at VLDB and ICDE**, leading global computer science research conferences; author of papers accepted at leading conferences and computer science journals, including Journal of Parallel and Distributed Computing (JPDC), International Conference on Data Engineering (ICDE), Very Large Data Bases conference & journal (VLDB), and the Advanced Computing conference (ADCOMP).
 
 ---
 
