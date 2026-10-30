@@ -1,6 +1,6 @@
 ## REPO NAME: repo-100-career-position-history
 
-#### Other GitHub repo: LOP1__LIST_OF_POSITIONS__Public (github.com/delphicventurescode)
+#### Other GitHub repo: LOP1__LIST_OF_POSITIONS__Public (github.com/amportfoli90210)
 
 Below is a list of previous positions held.
 
@@ -22,3 +22,9 @@ Below is a list of previous positions held.
 - Consultant, Digital Green (Jun 2006 - Sep 2007)
 - Member of Technical Staff, later Senior Member of Technical Staff, Oracle Corporation (Jun 2000 - Jun 2006)
 - Software Design Engineer, Microsoft Corporation (Feb 1999 - Jun 2000)
+
+[+]
+
+Link to other GitHub repo: https://github.com/amportfolio90210/LOP1__LIST_OF_POSITIONS__Public/
+
+[+]
