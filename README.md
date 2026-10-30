@@ -23,7 +23,7 @@ Below is a list of previous positions held.
 - Member of Technical Staff, later Senior Member of Technical Staff, Oracle Corporation (Jun 2000 - Jun 2006)
 - Software Design Engineer, Microsoft Corporation (Feb 1999 - Jun 2000)
 
-[+]
+[+] 
 
 Link to other GitHub repo: https://github.com/amportfolio90210/LOP1__LIST_OF_POSITIONS__Public/
 
