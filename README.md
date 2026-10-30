@@ -33,7 +33,7 @@ Below is a list of previous positions held.
 
 #### PROFESSIONAL EXPERIENCE
 
-- Fractional CFO, Stealth Startup - current work is confidential (Jun 2026 - Present)
+- Head of Financial Analytics, Nudge AI (Jun 2026 - Present)
 - Visiting Faculty, PES University (Oct 2025 - Present)
 - Chief Technology Officer, Fulmo Technologies (Mar 2024 - Jun 2026)
 - Patent Examiner, US Patent and Trademark Office (Sep 2023 - Mar 2024)
