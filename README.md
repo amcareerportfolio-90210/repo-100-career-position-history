@@ -1,6 +1,6 @@
 ## REPO NAME: repo-100-career-position-history
 
-#### Other GitHub repo: LOP1__LIST_OF_POSITIONS__Public
+#### Other GitHub repo: LOP1__LIST_OF_POSITIONS__Public (github.com/delphicventurescode)
 
 Below is a list of previous positions held.
 
