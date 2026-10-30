@@ -1,5 +1,22 @@
 ## REPO NAME: repo-100-career-position-history
 
+[+]
+
+### HIGHLIGHTS AT A GLANCE
+
+- **20+ years experience** across tech, media, education, and non-profits[cite: 1]
+- **Built 10+ software products** including Fulmo (Games for Wellness) and Screens (LMS)[cite: 1]
+- **Author of 10+ poetry books** and 2 original political/economic theories[cite: 1]
+- **15+ U.S./EU patents**; former roles at Microsoft, Oracle, and Digital Green[cite: 1]
+- **Collaborated with royal families**; non-profit concept presented to Bill Gates[cite: 1]
+- **Member of the ANSI/ISO SQL Language Design Committee**[cite: 1]
+- **Member of World Record Performance Team** at Microsoft in the SQL Server Group[cite: 1]
+- **Presenting author at VLDB and ICDE**, leading global database research conferences[cite: 1]
+
+---
+
+[+]
+
 #### Other GitHub repo: LOP1__LIST_OF_POSITIONS__Public (github.com/amportfoli90210)
 
 Below is a list of previous positions held.
